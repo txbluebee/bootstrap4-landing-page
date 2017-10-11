@@ -2,3 +2,15 @@
 .card-header {
   border-radius: 0 !important;
 }
+
+.jumbotron {
+  background-image: url('../background.jpg');
+  border-style: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+section {
+  padding-top: 4rem;
+}
