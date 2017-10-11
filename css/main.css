@@ -4,7 +4,7 @@
 }
 
 .jumbotron {
-  background-image: url('../background.jpg');
+  background-image: url('../img/background.jpg');
   border-style: cover;
   background-position: center;
   background-attachment: fixed;
@@ -21,4 +21,10 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Rubik', sans-serif;
+}
+#section-description h2,
+#section-features h2,
+#section-pricing h2
+ {
+  margin-bottom: 1.5rem;
 }
